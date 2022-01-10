@@ -15,3 +15,12 @@ h1{
     border-radius: 5px;
     color: rgb(18, 36, 36);
 }
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+img{
+    width: 60%;
+    height: auto;
+}
