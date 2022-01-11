@@ -27,3 +27,9 @@ img{
     width: 60%;
     height: auto;
 }
+h2{
+    text-align: center;
+}
+.green-color{
+    color: lightgreen;
+}
