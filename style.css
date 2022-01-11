@@ -29,7 +29,7 @@ img{
 }
 h2{
     text-align: center;
-}
+ }
 .green-color{
     color: lightgreen;
 }
@@ -40,4 +40,17 @@ h2{
 .half-width{
     width: 50%;
     padding: 2%;
+    margin-top: 0%;
+}
+#miss-first{
+    border-radius: 10px;
+    background-color: rgb(147, 224, 147);  
+}
+#viss-sec{
+    border-radius: 10px;
+    background-color: moccasin;
+}
+#goal-third{
+    border-radius: 10px;
+    background-color: rgb(230, 171, 161);
 }
