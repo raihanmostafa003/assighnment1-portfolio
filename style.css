@@ -70,5 +70,16 @@ h2{
 }
 .build-corona{
     text-align: center;
-    color: lightgreen;
+    color: mediumturquoise;
+}
+.biuld-corona-appli{
+    display: flex;
+    margin-top: 10px;
+    padding-bottom: 5%;
+    padding-left: 10%;
+ 
+}
+.biuld-corona-appli img{
+    width: 70%;
+    margin-left: 18px;
 }
