@@ -58,15 +58,13 @@ h2{
 }
 .sect-cod{
     display: flex;
-    margin-bottom: 100px;
-    margin-left: 10%;
-    padding: 10px 40px;
-    background-image: url(shapes/dream-bg.png);
+    background-image: url(shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
-    background-position:var(.border-slice)
-    
+    background-size: 22%;
+    background-position-y: 50px;
 }
 .sect-cod img{
-    width: 60%;
+    width: 70%;
+    padding-left: 18%;
 }
